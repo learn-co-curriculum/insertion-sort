@@ -41,7 +41,8 @@ Ok, so perhaps what you did was first find the minimum number, remove the minimu
 
   // findTheMin given our original array, and remove that element
 
-  // now with the new array, findTheMin again, and remove that element
+  // now with the new array, findTheMin again, 
+  // and remove that element
 
   // keep doing this until our unsortedArray is empty
 
