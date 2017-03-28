@@ -7,7 +7,7 @@
 
 ### The Problem
 
-![](http://quiz.geeksforgeeks.org/wp-content/uploads/2013/03/Insertion-Sort.jpg)
+![](https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/cards-sort.jpg)
 Ok, so given an unsorted array, if we ask you to place the numbers from lowest to highest could you do it?  
 
 ```javascript
