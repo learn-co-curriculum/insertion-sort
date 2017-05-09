@@ -8,6 +8,7 @@
 ### The Problem
 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/cards-sort.jpg)
+
 Ok, so given an unsorted array, if we ask you to place the numbers from lowest to highest could you do it?  
 
 ```javascript
@@ -76,7 +77,6 @@ And how do we write our minAndRemove function? Well we just go through the numbe
     let min = array[0]
     let minIndex = 0
     for(let i = 0; i < array.length; i++){
-      let currentElement = array[i]
       if(array[i] < min){
         min = array[i]
         minIndex = i
