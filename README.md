@@ -1,9 +1,9 @@
-# Insertion Sort
+# Selection Sort
 
 ## Objectives
 
 * Begin to develop a procedure for problem solving and coding algorithms
-* Learn the insertion sort algorithm
+* Learn the selection sort algorithm
 
 ### The Problem
 
